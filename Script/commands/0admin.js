@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "0admin",
 	version: "1.0.5",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "Happy Home botla",
 	description: "Admin Config",
 	commandCategory: "Admin",
 	usages: "Admin",
@@ -67,7 +67,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
             for (const idAdmin of listAdmin) {
                 if (parseInt(idAdmin)) {
                   const name = (await Users.getData(idAdmin)).name
-                    msg.push(`𝗧𝗲̂𝗻: ${name}\n» 𝗟𝗶𝗻𝗸 𝗙𝗕: https://www.facebook.com/${idAdmin} 💌`);
+                    msg.push(`𝗧𝗲̂𝗻: ${name}\n» 𝗟𝗶𝗻𝗸 𝗙𝗕: https://www.facebook.com/profile.php?id=61589186215391/${idAdmin} 💌`);
                 }
             }
           listNDH = NDH || config.NDH ||  [];
@@ -168,7 +168,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
                 var listAdd = [];
 
                 for (const id of mention) {
-                    const index = config.NDH.findIndex(item => item == id);
+                    const messageIDonfig.NDH.findIndex(item => item == id);
                     NDH.splice(index, 1);
                     config.NDH.splice(index, 1);
                     listAdd.push(`${id} -${event.mentions[id]}`);
@@ -235,7 +235,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
           if (permssion != 3) return api.sendMessage("𝗠𝗢𝗗𝗘 - 𝗕𝗼𝗿𝗱𝗲𝗿 𝗰𝗮𝗻𝗴𝗹𝗲 𝗿𝗶𝗴𝗵𝘁𝘀 🎀 ", threadID, messageID);
             if (config.adminOnly == false) {
                 config.adminOnly = true;
-                api.sendMessage(`𝗠𝗢𝗗𝗘 - 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗲𝗻𝗮𝗯𝗹𝗲 𝗔𝗱𝗺𝗶𝗻 𝗢𝗻𝗹𝘆 𝗺𝗼𝗱𝗲, 𝗼𝗻𝗹𝘆 𝗮𝗱𝗺𝗶𝗻𝘀 𝗰𝗮𝗻 𝘂𝘀𝗲 𝗯𝗼𝘁𝘀 👑`, threadID, messageID);
+                api.sendMessage(`𝗠𝗢𝗗𝗘 - 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗲𝗻𝗮𝗯𝗹𝗲 𝗔𝗱𝗺𝗶𝗻 𝗢𝗻𝗹𝘆 𝗺𝗼𝗱𝗲, 𝗼𝗻𝗹𝘆 𝗮𝗱𝗺𝗶𝗻𝘀 𝗰𝗮𝗻 𝘂𝘀𝗲 𝗯𝗼𝘁𝘀 👑`, threadID, mmessageID;
             } else {
                 config.adminOnly = false;
                 api.sendMessage(`𝗠𝗢𝗗𝗘 - 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗱𝗶𝘀𝗮𝗯𝗹𝗲 𝗔𝗱𝗺𝗶𝗻 𝗢𝗻𝗹𝘆 𝗺𝗼𝗱𝗲, 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗰𝗮𝗻 𝘂𝘀𝗲 𝘁𝗵𝗲 𝗯𝗼𝘁 👑`, threadID, messageID);
