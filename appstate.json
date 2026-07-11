@@ -1,7 +1,92 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+	{
+		"key": "datr",
+		"value": "WPZRai8x_zhQ1odpMPRNqPiv",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-11T09:19:45.654Z",
+		"lastAccessed": "2026-07-11T09:19:45.655Z"
+	},
+	{
+		"key": "sb",
+		"value": "WPZRarn6xITKSI8-Hok41woO",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-11T09:19:45.655Z",
+		"lastAccessed": "2026-07-11T09:19:45.655Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61590983623259",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-11T09:19:45.655Z",
+		"lastAccessed": "2026-07-11T09:19:45.655Z"
+	},
+	{
+		"key": "xs",
+		"value": "33%3AHSzI8ERQKwu9Dw%3A2%3A1783757036%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-11T09:19:45.655Z",
+		"lastAccessed": "2026-07-11T09:19:45.655Z"
+	},
+	{
+		"key": "fr",
+		"value": "0GRkcEbDLLgYadQjx.AWf3bsRTIS-uYVbmEHGxHBXtTIFLJGDWofD4ItCgdalLO2in4do.BqUfZY..AAA.0.0.BqUfj1.AWeubALi42c-REJwQkX-_tQx-HA",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-11T09:19:45.655Z",
+		"lastAccessed": "2026-07-11T09:19:45.655Z"
+	},
+	{
+		"key": "locale",
+		"value": "bn_IN",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-11T09:19:45.655Z",
+		"lastAccessed": "2026-07-11T09:19:45.655Z"
+	},
+	{
+		"key": "pas",
+		"value": "61590983623259%3AmWD6VD8EKC",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-11T09:19:45.655Z",
+		"lastAccessed": "2026-07-11T09:19:45.655Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B660x360x2",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-11T09:19:45.655Z",
+		"lastAccessed": "2026-07-11T09:19:45.655Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3212%3Btimestamp%3A1783758755",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-11T09:19:45.655Z",
+		"lastAccessed": "2026-07-11T09:19:45.655Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "101720421%3BT%3A29729312",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-07-11T09:19:45.655Z",
+		"lastAccessed": "2026-07-11T09:19:45.655Z"
+	}
+]
