@@ -70,7 +70,7 @@ module.exports.run = async function ({ event, api, args }) {
  if (!mention) return api.sendMessage("Please mention 1 Person", threadID, messageID);
  else {
  var one = senderID, two = mention;
- return makeImage({ one, two }).then(path => api.sendMessage({ body: "╭──────•◈•───────╮\n 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁 \n\n—হালা গরু চোর তোরে আজকে হাতে নাতে ধরছি পালাবি কই_😸💁‍♀️" + tag + '\n\n\n𝗠𝗔𝗗𝗘 𝗕𝗬:\n Ullash ッ\n╰──────•◈•───────╯',
+ return makeImage({ one, two }).then(path => api.sendMessage({ body: "╭──────•◈•───────╮\n 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁 \n\n—হালা গরু চোর তোরে আজকে হাতে নাতে ধরছি পালাবি কই_😸💁‍♀️" + tag + '\n\n\n𝗠𝗔𝗗𝗘 𝗕𝗬:\n jihad ッ\n╰──────•◈•───────╯',
  mentions: [{
  tag: tag,
  id: mention
