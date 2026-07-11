@@ -13,7 +13,7 @@ try {
 }
 const BOT_NAME = pkg.name || "Islamick Bot";
 const BOT_VERSION = pkg.version || "5.0.0";
-const BOT_DESC = pkg.description || "Islamick Chat Bot";
+const BOT_DESC = pkg.description || "Happy Home Chat Bot";
 
 // ==================== Express Server ====================
 const app = express();
@@ -61,7 +61,7 @@ function startBot(message) {
 }
 
 // ==================== Log Meta Info ====================
-logger(BOT_NAME, "[ NAME ]");
+logger(BOT_NAME, "[ botla ]");
 logger(`Version: ${BOT_VERSION}`, "[ VERSION ]");
 logger(BOT_DESC, "[ DESCRIPTION ]");
 
