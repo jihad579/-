@@ -2,7 +2,7 @@ module.exports.config = {
  name: "catsay",
  version: "1.0.1",
  hasPermssion: 0,
- credits: "MAHBUB SHAON",
+ credits: "Ak jihad",
  description: "",
  commandCategory: "edit-img",
  cooldowns: 0,
