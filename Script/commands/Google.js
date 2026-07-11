@@ -5,10 +5,13 @@ module.exports.config = {
 
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+	credits: "Happy Home",
 	description: "Comment on table ( ͡° ͜ʖ ͡°)",
 	commandCategory: "edit-img",
-	usages: "google [text]",
+	usages: "google [কি আসে যায় তাতে .?
+যদি নাই বা দাও সারা —
+তোমার নামের পাশে সবুজ আলো —
+আমায় হাসায় দু-বেলা..!!😊❤️‍🩹]",
 	cooldowns: 10,
 	dependencies: {
 		"canvas":"",
