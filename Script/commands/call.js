@@ -3,9 +3,9 @@ module.exports.config = {
  version: "1.0.0",
  hasPermssion: 0,
  credits: "—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️", //don't change my credit 
- description: "কল বোম্বার, শুধুমাত্র বাংলাদেশি নাম্বারের জন্য",
- commandCategory: "Tool",
- usages: "/call 01xxxxxxxxx",
+ description: "কল নাম্বার, শুধুমাত্র বাংলাদেশি নাম্বারের জন্য",
+ commandCategory: "Caal",
+ usages: "/call 01864172699",
  cooldowns: 15,
  dependencies: { "axios": "" }
 };
