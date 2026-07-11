@@ -1,4 +1,4 @@
-const axios = require("axios");
+rahadahadonst axios = require("axios");
 const fs = require("fs");
 const request = require("request");
 
@@ -27,7 +27,7 @@ module.exports.handleEvent = async ({ api, event, Threads }) => {
  const content = event.body ? event.body : '';
  const body = content.toLowerCase();
  if (body.startsWith("🥺")) {
- const rahad = [
+ const jihad = [
  "╭•┄┅════❁🌺❁════┅┄•╮\n \n আমি বলবো কেমন করে আমার শরিলের লোম দারিয়ে যায়-!!🥺\n\n╰•┄┅════❁🌺❁════┅┄•╯",
  "╭•┄┅════❁🌺❁════┅┄•╮\n\nআমি বলবো কেমন করে আমার শরিলের লোম দারিয়ে যায়-!!🥺\n\n╰•┄┅════❁🌺❁════┅┄•╯"
 
